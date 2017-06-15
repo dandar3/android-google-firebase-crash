@@ -5,7 +5,7 @@ Eclipse library project based on:<br/>
 
 **Requires:**
 - `Android 7.1 (API 25) SDK Platform`
-- [dandar3/android-google-firebase-analytics](https://github.com/dandar3/android-google-firebase-analytics-impl/tree/10.2.6)
+- [dandar3/android-google-firebase-analytics](https://github.com/dandar3/android-google-firebase-analytics/tree/10.2.6)
 - [dandar3/android-google-firebase-common](https://github.com/dandar3/android-google-firebase-common/tree/10.2.6)
 - [dandar3/android-google-firebase-iid](https://github.com/dandar3/android-google-firebase-iid/tree/10.2.6)
 - [dandar3/android-google-play-services-basement](https://github.com/dandar3/android-google-play-services-basement/tree/10.2.6)
