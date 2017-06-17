@@ -11,9 +11,9 @@ Eclipse library project based on:<br/>
 - [dandar3/android-google-play-services-basement](https://github.com/dandar3/android-google-play-services-basement/tree/10.2.6)
 
 **References:**
+- https://firebase.google.com/docs/crash/
 - https://firebase.google.com/support/release-notes/android#20170517
 - https://developers.google.com/android/guides/releases#may_2017_-_verson_1026
-- https://firebase.google.com/docs/crash/
 
 **SVN checkout:**
 - _File > Import... > Team > Team Project Set > URL:_<br/>
